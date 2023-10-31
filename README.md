@@ -1,0 +1,2 @@
+# sls
+Sigma Language Server
